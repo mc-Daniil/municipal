@@ -2,6 +2,8 @@
 
 |Категория|Задание|Сложность|Решение|Автор|
 |-|-|-|-|-|
-|Web|Бобровый дом|Easy(20)|[Решение](Web/Бобровый%20дом/README.md)|[@danissimurr](https://t.me/danissimurr)|
+|Web|Бобровый дом|Super easy(20)|[Решение](Web/Бобровый%20дом/README.md)|[@danissimurr](https://t.me/danissimurr)|
 |Reverse|mini-bobry|Medium(70)|[Решение](Reverse/mini%20bobry/README.md)|[@danissimurr](https://t.me/danissimurr)|
 |Reverse|human reverse|Hard(100)|[Решение](Reverse/human%20reverse/README.md)|[@danissimurr](https://t.me/danissimurr)|
+|Crypto|Кризотютя|Easy(30)|[Решение](Crypto/krizotuta/README.md)|[@maximxlss](https://t.me/maximxlss)|
+|Crypto|human reverse|Easy(30)|[Решение](Crypto/pankosvod/README.md/README.md)|[@maximxlss](https://t.me/maximxlss)|
